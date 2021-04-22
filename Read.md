@@ -82,12 +82,16 @@ Syntax:
 <b> Statements... </b>
 ```
 Example:
-```<b>Bold word</b>
+```
+<b>Bold word</b>
+
 ```
 9.Italic tag: It is used to write the content in italic format.<br>
-Syntax: 
+Syntax:
+
  ```
 <i> Statements... </i>
+
 ```
 Example:
 ```
@@ -95,26 +99,36 @@ Example:
 ```
 10.Small (text) tag: It is used to set the small font size of the content.<br>
 Syntax: 
+
 ``` 
 <small> Statements... </small>
+
 ```
 Example:
+
 ```
 <small>Example</small>
+
 ``
 11.Underline tag: It is used to set the content underline.<br>
 Syntax: 
+
  ```
 <u> Statements... </u>
+
 ```
 Example:
+
 ```
-<u>GeeksforGeeks</u>
+<u>wlecome</u>
+
 ```
 12.Deleted text tag: It is used to represent as deleted text. It cross the text content.<br>
 Syntax: 
+
  ```
 <strike> Statements... </strike>
+
 ```
 Example:
 ```
@@ -127,26 +141,33 @@ Syntax:
 ```
 Example:
 ```
-<a href="https://www.geeksforgeeks.org/">
+<a href="https://www.gooogle.com/">
+google</a>
 
-GeeksforGeeks</a>
 ````
 14. List tag: It is used to list the content.
-Syntax: 
+Syntax:
+
  ```
 <li> Statements... </li>
+
 ```
 Example:
+
 ```
 <li>List item 1</li>
 <li>List item 2</li>
+
 ```
 15. Ordered List tag: It is used to list the content in a particular order.
 Syntax: 
+
  ```
 <ol> Statements... </ol>
+
 ```
 Example:
+
 ```
 <ol>
      <li>List item 1</li>
@@ -154,11 +175,14 @@ Example:
      <li>List item 3</li>
      <li>List item 4</li>
 </ol>
+
 ```
-16 .Unordered List tag: It is used to list the content without order.
-Syntax: 
+16 .Unordered List tag: It is used to list the content without order
+Syntax:
+
  ```
 <ul> Statements... </ul>
+
 ```
 Example:
 ```
@@ -171,12 +195,16 @@ Example:
 ```
 17. Comment tag: It is used to set the comment in html document. It is not visible on the browser.<br>
 Syntax: 
+
  ```
 <!-- Statements... -->
+
 ```
 Example:
+
 ```
 <!--Comment section-->
+
 ```
 18. Scrolling Text tag: It is used to scroll the text or image content.<br>
 Syntax: 
